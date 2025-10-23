@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Reports folder
+hvac_reports/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
